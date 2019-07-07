@@ -14,7 +14,7 @@ HTML is successful in one thing: **simplicity**.
 
 It resisted being hijacked into an XML dialect via XHTML, when eventually people realized that thing was way, way too complex.
 
-It did so because of another feature it provides us: it's **forgiving**. There are _some_ rules, right, but after you learn those, you have a lot of freedom.
+It did so because of another feature it provides us: **forgiveness**. There are _some_ rules, right, but after you learn those, you have a lot of freedom.
 
 Browsers learned to be resilient, and to always try to do their best when parsing and presenting HTML to the users.
 
