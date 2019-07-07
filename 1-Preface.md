@@ -32,7 +32,7 @@ The exceptional Developer Tools built into any browser let us inspect and take i
 
 If you are new to HTML this book aims to help you get started.  If you are a seasoned Web Developer this book will improve your knowledge. 
 
-I learned so much while writing it, even though I'm working with the Web since 20+ years, and I'm sure you'll find something new too.
+I learned so much while writing it, even though I've been working with the Web for 20+ years, and I'm sure you'll find something new too.
 
 Or you'll re-learn something old you forgot.
 
