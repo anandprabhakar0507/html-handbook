@@ -30,7 +30,7 @@ Don't take this for granted. I don't know any other platform that gives us this 
 
 The exceptional Developer Tools built into any browser let us inspect and take inspiration from HTML written by anyone in the world.
 
-This book aims to help you get started with HTML if you are new to it, and improve your knowledge of it, if you are a seasoned Web Developer.
+If you are new to HTML this book aims to help you get started.  If you are a seasoned Web Developer this book will improve your knowledge. 
 
 I learned so much while writing it, even though I'm working with the Web since 20+ years, and I'm sure you'll find something new too.
 
