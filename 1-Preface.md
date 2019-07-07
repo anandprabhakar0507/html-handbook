@@ -6,7 +6,7 @@ There is an incredible power underneath this rather simple and limited set of ru
 
 My first HTML book is dated 1997 and it was called HTML Unleashed. A big, lots-of-pages long tome.
 
-20+ years passed and HTML is still the foundation of the Web, with minimal changes from back then.
+20+ years have passed and HTML is still the foundation of the Web, with minimal changes from back then.
 
 Sure, we got more semantic tags, presentational HTML is no longer a thing, and CSS has taken care of the design of things.
 
