@@ -26,7 +26,7 @@ We even know what the first web page was. It's this: http://info.cern.ch/hyperte
 
 And you can see the source of the page, thanks to another big feature of the Web, and HTML: **we can inspect the HTML of any web page**.
 
-Don't give this for granted. I don't know any other platform that gives us this ability.
+Don't take this for granted. I don't know any other platform that gives us this ability.
 
 The exceptional Developer Tools built into any browser let us inspect and take inspiration from HTML written by anyone in the world.
 
