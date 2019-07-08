@@ -151,7 +151,7 @@ This is how browsers typically render them:
 
 ![](6-Tags-that-interact-with-text/Screen%20Shot%202019-06-12%20at%2009.45.21.png)
 
-I must say you rarely see them in the wild, for sure not much as `ul` and `ol`, but sometimes they might be u seful.
+I must say you rarely see them in the wild, for sure not much as `ul` and `ol`, but sometimes they might be useful.
 
 ## Other text tags
 
