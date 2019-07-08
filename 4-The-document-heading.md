@@ -29,7 +29,7 @@ Inside it we can have a wide variety of tags, depending on what you need to do:
 
 ### The `title` tag
 
-The `title` tag determines the page title. The title is displayed in the browser, and it's especially important as it's one of the key factors for Search Engines Optimization.
+The `title` tag determines the page title. The title is displayed in the browser, and it's especially important as it's one of the key factors for Search Engine Optimization.
 
 ### The `script` tag
 
@@ -57,7 +57,7 @@ Sometimes this tag is used at the bottom of the page. Why? For performance reaso
 
 Loading scripts by default blocks the rendering of the page until the script is parsed and loaded.
 
-Doing so, the script is loaded and executed after all the page is already parsed and loaded, giving a better experience to the user over keeping it in the `head` tag.
+Doing so, the script is loaded and executed after the whole page is already parsed and loaded, giving a better experience to the user over keeping it in the `head` tag.
 
 My opinion is that this is now bad practice. Let `script` live in the `head` tag.
 
@@ -69,7 +69,7 @@ In modern JavaScript we have an alternative, more performant than keeping the sc
 
 This is the scenario that triggers the faster path to a fast loaded page, and a fast loaded JavaScript.
 
-> Note: the `async` attribute is similar, but in my opinion a worse option than `defer`. I describe why in details in the page  [https://flaviocopes.com/javascript-async-defer/](https://flaviocopes.com/javascript-async-defer/)
+> Note: the `async` attribute is similar, but in my opinion a worse option than `defer`. I describe why, in more detail, on page  [https://flaviocopes.com/javascript-async-defer/](https://flaviocopes.com/javascript-async-defer/)
 
 ### The `noscript` tag
 
@@ -134,7 +134,7 @@ Usage:
 </html>
 ```
 
-The `media` attribute allows to load different stylesheets depending on the device capabilities:
+The `media` attribute allows the loading of different stylesheets depending on the device capabilities:
 
 ```html
 <link href="file.css" media="screen" rel="stylesheet">
