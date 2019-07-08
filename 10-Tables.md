@@ -141,7 +141,7 @@ Or it can span over 2 or more rows, using the `rowspan` attribute:
 
 ### Row headings
 
-Before I explained how you can have columns headings, using the `th` tag inside the first `tr` tag of the table.
+Before I explained how you can have column headings, using the `th` tag inside the first `tr` tag of the table.
 
 You can add a `th` tag as the first element inside a `tr` that's not the first `tr` of the table, to have row headings:
 
@@ -179,7 +179,7 @@ Those tags are
 - `tbody`
 - `tfoot`
 
-They wrap the `tr` tags to clearly define the difference sections of the table. Here's an example usage:
+They wrap the `tr` tags to clearly define the different sections of the table. Here's an example:
 
 ```html
 <table>
