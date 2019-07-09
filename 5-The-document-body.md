@@ -37,7 +37,7 @@ Block elements, when positioned in the page, do not allow other elements next to
 
 Inline elements instead can sit next to other inline elements.
 
-The difference also lies in the visual properties we can edit using CSS. We can alter the width/height, margin, padding and border or block elements. We can't do that for inline elements.
+The difference also lies in the visual properties we can edit using CSS. We can alter the width/height, margin, padding and border of block elements. We can't do that for inline elements.
 
 > Note that using CSS we can change the default for each element, setting a `p` tag to be inline, for example, or a `span` to be a block element.
 
