@@ -46,7 +46,7 @@ If the origin (protocol + domain + port) is `https://flaviocopes.com` (port 80 i
 
 I talked about data. Which data?
 
-Data is provided by users via the set of control that are available on the Web platform:
+Data is provided by users via the set of controls that are available on the Web platform:
 
 - input boxes (single line text)
 - text areas (multiline text)
@@ -79,7 +79,7 @@ As with all the other fields that follow, you need to give the field a name in o
 <input type="text" name="username" />
 ```
 
-The `placeholder` attribute is used to have a text showing up, in light gray, when the field is empty. Useful to add a hint to the user of what to type:
+The `placeholder` attribute is used to have some text showing up, in light gray, when the field is empty. Useful to add a hint to the user for what to type in:
 
 ```html
 <input type="text" name="username" placeholder="Your username" />
@@ -165,7 +165,7 @@ The `value` attribute sets the text on the button, which if missing shows the "S
 
 Browsers provide client-side validation functionality to forms.
 
-You can set fields as required, ensuring they are filled, and enforce a specific format fo the input of each field.
+You can set fields as required, ensuring they are filled, and enforce a specific format for the input of each field.
 
 Let's see both options.
 
@@ -219,7 +219,7 @@ You can specify one or more file types allowed using the `accept` attribute. Thi
 <input type="file" name="secret-documents" accept="image/*">
 ```
 
-You can use a specific MIME type, like `application/json` or set a file extension like `.pdf`. Or set multiple files extensions, like this:
+You can use a specific MIME type, like `application/json` or set a file extension like `.pdf`. Or set multiple file extensions, like this:
 
 ```html
 <input type="file" name="secret-documents" accept=".jpg, .jpeg, .png">
