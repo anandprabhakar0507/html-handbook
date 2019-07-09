@@ -16,7 +16,7 @@ By convention, an HTML file is saved with a `.html` or `.htm` extension.
 
 Inside this file, we organize the content using **tags**.
 
-Tags wrap the content, and each tag give a special meaning to the text it wraps.
+Tags wrap the content, and each tag gives a special meaning to the text it wraps.
 
 Let's make a few examples.
 
@@ -36,7 +36,7 @@ This HTML snippet creates a list of items using the `ul` tag, which means *unord
 </ul>
 ```
 
-When an HTML page is served by the browser, the tags are interpreted and the browser renders the elements according to the rules that define the visual appearance of them.
+When an HTML page is served by the browser, the tags are interpreted and the browser renders the elements according to the rules that define their visual appearance.
 
 Some of those rules are built-in. Like how a list renders, for example. Or how a link is rendered in blue, underlined.
 
@@ -71,7 +71,7 @@ Then we have the `html` element, which has an opening and closing tag:
 
 All tags have an opening and closing tag. Except a few self-closing tags which don't need a closing one because they don't contain anything _in them_.
 
-The closing tag is same as the opening one, but with a `/`.
+The closing tag is the same as the opening tag, but with a `/`.
 
 The `html` starting tag is used at the beginning of the document, right after the document type declaration.
 
@@ -115,7 +115,7 @@ So, an element constitutes the whole _package_:
 
 If an element has no closing tag, it is only written with the starting tag, and it cannot contain any text content.
 
-That said, I might use the tag or element term in the book meaning the same thing, except I explicitly mention starting tag or ending tag.
+That said, I might use the tag or element term in the book meaning the same thing, except if I explicitly mention starting tag or ending tag.
 
 ### Attributes
 
@@ -129,7 +129,7 @@ Attributes have the `key="value"` syntax:
 
 > You can also use single quotes, but using double quotes in HTML is a nice convention.
 
-We can have multiple of them:
+We can have many of them:
 
 ```html
 <p class="a-class" id="an-id">A paragraph of text</p>
