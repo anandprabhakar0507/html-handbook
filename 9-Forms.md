@@ -433,12 +433,12 @@ Options can be grouped using the `optgroup` tag. Each option group has a `label`
 
 ```html
 <select name="color">
-	<optgroup lavel="Primary">
+	<optgroup label="Primary">
 		<option value="red">Red</option>
 		<option value="yellow">Yellow</option>
 		<option value="blue">Blue</option>
 	</optgroup>
-	<optgroup lavel="Others">
+	<optgroup label="Others">
 		<option value="green">Green</option>
 		<option value="pink">Pink</option>
 	</optgroup>
