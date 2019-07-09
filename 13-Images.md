@@ -24,7 +24,7 @@ You can set the `width` and `height` attributes to set the space that the elemen
 
 ## The `figure` tag
 
-Often used along with `img` is the `figure` tag.
+The `figure` tag is often used along with the `img` tag.
 
 `figure` is a semantic tag often used when you want to display an image with a caption. You use it like this:
 
@@ -40,7 +40,7 @@ The `figcaption` tag wraps the caption text.
 
 ## Responsive images using `srcset`
 
-The `srcset` attribute allows you to set responsive images that the browser can use depending on the pixel density or window width, according to your preferences. In this way it can only download the resources it needs to render the page, without downloading a bigger image if it's on a mobile device, for example.
+The `srcset` attribute allows you to set responsive images that the browser can use depending on the pixel density or window width, according to your preferences. This way, it can only download the resources it needs to render the page, without downloading a bigger image if it's on a mobile device, for example.
 
 Here's an example, where we give 4 additional images for 4 different screen sizes:
 
@@ -81,7 +81,7 @@ A useful website to generate the `srcset` and progressively smaller images is [h
 
 ## The `picture` tag
 
-HTML also gives us the `picture` tag, which does a very similar job of `srcset`, and the differences are very subtle.
+HTML also gives us the `picture` tag, which does a very similar job to `srcset`, and the differences are very subtle.
 
 You use `picture` when instead of just serving a smaller version of a file, you completely want to change it. Or serve a different image format.
 
