@@ -146,7 +146,7 @@ The `footer` tag is used to determine the footer of an article, or the footer of
 ```html
 <article>
  ....
-	<footer>
+  <footer>
     <p>Footer notes..</p>
   </footer>
 </div>
