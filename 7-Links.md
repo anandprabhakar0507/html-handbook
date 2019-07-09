@@ -25,7 +25,7 @@ Example, I'm on the page `https://flaviocopes.com/axios/` and I have these links
 - `/test` once clicked brings me to `https://flaviocopes.com/test`
 - `test` once clicked brings me to `https://flaviocopes.com/axios/test`
 
-Links tags can include other things inside them, not just text. For example images:
+Link tags can include other things inside them, not just text. For example, images:
 
 ```html
 <a href="https://flaviocopes.com">
