@@ -14,7 +14,7 @@ Inside it, we can add any inline element we like, like `span` or `a`.
 
 We cannot add block elements.
 
-We cannot nest `p` elements one into another.
+We cannot nest a `p` element into another one.
 
 By default browsers style a paragraph with a margin on top and at the bottom. `16px` in Chrome, but the exact value might vary between browsers.
 
@@ -75,7 +75,7 @@ The `q` HTML tag is used for inline quotes.
 
 ## Horizontal line
 
-Not really based on text, but the `hr` tag is often used inside a page. It means `horizontal rule`, and it adds an horizontal line in the page.
+Not really based on text, but the `hr` tag is often used inside a page. It means `horizontal rule`, and it adds a horizontal line in the page.
 
 Useful to separate sections in the page.
 
@@ -151,7 +151,7 @@ This is how browsers typically render them:
 
 ![](6-Tags-that-interact-with-text/Screen%20Shot%202019-06-12%20at%2009.45.21.png)
 
-I must say you rarely see them in the wild, for sure not much as `ul` and `ol`, but sometimes they might be u seful.
+I must say you rarely see them in the wild, for sure not much as `ul` and `ol`, but sometimes they might be useful.
 
 ## Other text tags
 
