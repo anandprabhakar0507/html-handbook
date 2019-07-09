@@ -2,7 +2,7 @@
 
 It's important we design our HTML with accessibility in mind.
 
-Having accessible HTML means that people with disabilities can use the Web. Totally blind users, or users visually impaired. People that have hearing loss issues. There are a lot of different disabilities.
+Having accessible HTML means that people with disabilities can use the Web. There are totally blind or visually impaired users, people with hearing loss issues and a multitude of other different disabilities.
 
 Unfortunately this topic does not take the importance it needs, and it doesn't seem as cool as others.
 
@@ -160,9 +160,9 @@ I like a minimalistic design in my sites. My blog for example is mostly just con
 
 Adding the `aria-hidden="true"` attribute will tell screen readers to ignore that element.
 
-## Where to know more
+## Where to learn more
 
-This is just an introduction to the topic. To know more, I recommend those resources:
+This is just an introduction to the topic. To learn more, I recommend these resources:
 
 - [https://www.w3.org/TR/WCAG20/](https://www.w3.org/TR/WCAG20/)
 - [https://webaim.org](https://webaim.org/)
